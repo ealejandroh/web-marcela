@@ -33,13 +33,13 @@ export interface NavData {
 
 export const navigationBarData: NavData = {
 	logo: {
-		src: '/logo.png',
+		src: '/web-marcela/logo.png',
 		alt: 'The tailwind astro theme',
 		text: 'Marcela'
 	},
 	navItems: [
-		{ name: 'Inicio', link: '/' },
-		{ name: 'Precio', link: '/pricing' },
+		{ name: 'Inicio', link: '/web-marcela/' },
+		{ name: 'Precio', link: '/web-marcela/pricing' },
 	],
-	navActions: [{ name: 'Separa una ahora', link: '/contact', style: 'primary', size: 'lg' }]
+	navActions: [{ name: 'Separa una ahora', link: '/web-marcela/contact', style: 'primary', size: 'lg' }]
 }

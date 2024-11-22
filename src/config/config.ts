@@ -18,6 +18,7 @@ export interface Config {
 	noindex: boolean
 	mode: Mode
 	scrollAnimations: boolean
+	baseUrl: string
 }
 
 export const configData: Config = {
@@ -32,5 +33,6 @@ export const configData: Config = {
 	canonical: true,
 	noindex: false,
 	mode: 'auto',
-	scrollAnimations: true
+	scrollAnimations: true,
+	baseUrl: '/web-marcela'
 }
