@@ -20,8 +20,8 @@ const SEO = {
 }
 // - Page Header
 const header = {
-	title: 'Choose the plan that works for <strong>your</strong> needs',
-	text: 'All plans come with a 30-day money-back guarantee.'
+	title: 'Elige el mejor <strong>producto musical</strong> necesites',
+	text: ''
 }
 // - Testimonial data
 import testimonialBackground from '../assets/testimonial-bg-02.webp'
@@ -36,15 +36,7 @@ const testimonialData = {
 <Layout title={SEO.title} description={SEO.description}>
 	<Hero title={header.title} text={header.text} />
 	<Price />
-	<SocialProof />
 	<Feature />
-	<Testimonial
-		bg={testimonialBackground}
-		bgPosition="left"
-		blockquote={testimonialData.blockquote}
-		figcaption={testimonialData.figcaption}
-		cite={testimonialData.cite}
-	/>
 	<FAQ classes="bg-slate-50 dark:bg-neutral-900/40" />
 	<CTA />
 </Layout>

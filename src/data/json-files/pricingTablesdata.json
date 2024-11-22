@@ -1,15 +1,15 @@
 [
 	{
 		"header": {
-			"title": "Basic",
-			"subtitle": "Ideal for individual developers.",
+			"title": "Serenata Virtual",
+			"subtitle": "Ideal para esa persona especial",
 			"currency": "$",
-			"price": "19",
-			"priceLabel": "month, billed anually",
+			"price": "20.000",
+			"priceLabel": "",
 			"priceMontly": "25",
 			"priceLabelMontly": "month",
-			"buttonName": "Try for free",
-			"buttonLink": "/"
+			"buttonName": "Separa una ahora",
+			"buttonLink": "/contact"
 		},
 		"body": {
 			"listItems": [
@@ -18,23 +18,19 @@
 				{ "listItem": "Immerse yourself in the dynamic realm of architecture." }
 			]
 		},
-		"footer": {
-			"buttonName": "See all features",
-			"buttonLink": "/"
-		},
 		"type": "basic"
 	},
 	{
 		"header": {
-			"title": "Team",
-			"subtitle": "Ideal for small teams",
+			"title": "Video Recurso",
+			"subtitle": "Ideal para guardar un recuerdo especial",
 			"currency": "$",
-			"price": "29",
-			"priceLabel": "month, billed anually",
+			"price": "30.000",
+			"priceLabel": "",
 			"priceMontly": "35",
 			"priceLabelMontly": "month",
-			"buttonName": "Try for free",
-			"buttonLink": "/"
+			"buttonName": "Separa una ahora",
+			"buttonLink": "/contact"
 		},
 		"body": {
 			"listItems": [
@@ -44,23 +40,19 @@
 				{ "listItem": "Unlock endless inspiration" }
 			]
 		},
-		"footer": {
-			"buttonName": "See all features",
-			"buttonLink": "/"
-		},
 		"type": "featured"
 	},
 	{
 		"header": {
-			"title": "Enterprise",
-			"subtitle": "Ideal for companies",
+			"title": "Serenata en vivo",
+			"subtitle": "Ideal para eventos grupales",
 			"currency": "$",
-			"price": "49",
-			"priceLabel": "month, billed anually",
+			"price": "80.000",
+			"priceLabel": "",
 			"priceMontly": "65",
 			"priceLabelMontly": "month",
-			"buttonName": "Try for free",
-			"buttonLink": "/"
+			"buttonName": "Separa una ahora",
+			"buttonLink": "/contact"
 		},
 		"body": {
 			"listItems": [
@@ -68,10 +60,6 @@
 				{ "listItem": "Present your projects with flair and captivate your audience." },
 				{ "listItem": "Immerse yourself in the dynamic realm of architecture." }
 			]
-		},
-		"footer": {
-			"buttonName": "See all features",
-			"buttonLink": "/"
 		},
 		"type": "basic"
 	}

@@ -10,6 +10,7 @@ import Row from '../../ui/Row.astro'
 import Col from '../../ui/Col.astro'
 // - UI
 import Form from '../contact/BasicForm.astro'
+import Card from '../../ui/cards/BasicCard.astro'
 
 // Props
 type Props = {
@@ -28,6 +29,46 @@ const { id, title, text, classes } = Astro.props
 				<h1 set:html={title} />
 				<p class="text-lg leading-relaxed">{text}</p>
 			</header>
+
+			<Row>
+				<Col span="6">
+					<Card
+						title="Whatsapp"
+						subtitle="+57 311 501 9914"
+						icon="whatsapp"
+						classes="text-center dark:!bg-neutral-800/50"
+						link="https://wa.me/573115019914"
+					/>
+				</Col>
+				<Col span="6">
+					<Card
+						title="Facebook "
+						subtitle="/marcela.londono.961"
+						icon="fb-icon"
+						classes="text-center dark:!bg-neutral-800/50"
+						link="https://www.facebook.com/marcela.londono.961"
+					/>
+				</Col>
+				<Col span="6">
+					<Card
+						title="Email"
+						subtitle="marcela_londos@hotmail.com"
+						icon="email"
+						classes="text-center dark:!bg-neutral-800/50"
+						link="mailto:marcela_londos@hotmail.com"
+					/>
+				</Col>
+				<Col span="6" classes="flex flex-col gap-6">
+					<Card
+						title="Instagram"
+						subtitle="@marce_canta"
+						icon="instagram"
+						classes="text-center dark:!bg-neutral-800/50"
+						link="https://www.instagram.com/marce_canta"
+					/>
+				</Col>
+			</Row>
+
 		</Col>
 		<Col span="6" classes="relative">
 			<Form classes="max-w-xl" />
