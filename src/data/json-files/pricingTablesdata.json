@@ -13,9 +13,11 @@
 		},
 		"body": {
 			"listItems": [
-				{ "listItem": "Join forces with fellow architects" },
-				{ "listItem": "Present your projects with flair and captivate your audience." },
-				{ "listItem": "Immerse yourself in the dynamic realm of architecture." }
+				{ "listItem": "Conexión instantánea desde cualquier lugar a través de video llamada" },
+				{ "listItem": "Ideal para sorprender a seres queridos a distancia" },
+				{ "listItem": "Canción personalizada según tus preferencias" },
+				{ "listItem": "Calidad de sonido profesional para una experiencia inolvidable" },
+				{ "listItem": "Flexibilidad de horarios según tu conveniencia" }
 			]
 		},
 		"type": "basic"
@@ -34,10 +36,11 @@
 		},
 		"body": {
 			"listItems": [
-				{ "listItem": "Join forces with fellow architects" },
-				{ "listItem": "Present your projects with flair and captivate your audience." },
-				{ "listItem": "Immerse yourself in the dynamic realm of architecture." },
-				{ "listItem": "Unlock endless inspiration" }
+				{ "listItem": "Creación de videos personalizados con fotos y canciones especiales" },
+				{ "listItem": "Ideal para aniversarios, cumpleaños o momentos especiales" },
+				{ "listItem": "Edición profesional para un resultado emotivo y único" },
+				{ "listItem": "Entrega digital para compartir fácilmente" },
+				{ "listItem": "Mensajes personalizados incluidos en el video" }
 			]
 		},
 		"type": "featured"
@@ -56,9 +59,11 @@
 		},
 		"body": {
 			"listItems": [
-				{ "listItem": "Join forces with fellow architects" },
-				{ "listItem": "Present your projects with flair and captivate your audience." },
-				{ "listItem": "Immerse yourself in the dynamic realm of architecture." }
+				{ "listItem": "Interpretación en vivo con la mejor calidad musical" },
+				{ "listItem": "Personalización del repertorio según tus deseos" },
+				{ "listItem": "Posibilidad de elegir el lugar y la hora del evento" },
+				{ "listItem": "Creación de momentos emotivos y memorables" },
+				{ "listItem": "Experiencia profesional y compromiso en cada presentación" }
 			]
 		},
 		"type": "basic"
